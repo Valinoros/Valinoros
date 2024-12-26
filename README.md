@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Valinoros
 - 👀 I’m interested in Game Development
-- 🌱 I’m currently learning Unity
-- 💞️ I’m looking to collaborate on Unity
+- 🌱 I’m currently learning Unreal Engine
+- 💞️ I’m looking to collaborate on Unreal Engine
 - 📫 How to reach me email: valinoros@gmail.com
-- ⚡ Fun fact: I started coding on my birthday
+- ⚡ Fun fact: I started coding on my 11th birthday
 
 <!---
 Valinoros/Valinoros is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
